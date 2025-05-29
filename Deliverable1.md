@@ -10,9 +10,9 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 
 ### Project Information:
 - **Topic Chosen**: _Your chosen topic name_
-- **Sprint Number**: _Sprint number_
-- **Scrum Master**: _Name of Scrum Master_
-- **Git Master**: _Name of Git Master_
+- **Sprint Number**: 1
+- **Scrum Master**: Astrid Vo
+- **Git Master**: Max Roland
 
 ### Sprint Planning (For Sprint 1-3):
 Fill out your Sprint Planning here, based on the kickoff document and your team's discussions.
@@ -153,13 +153,17 @@ Before submitting your Sprint deliverables, make sure to check the following ite
 
 - [ ] This document is complete and well-formatted.
 - [ ] Your software is on the master branch on GitHub, it is tested and compiles/runs.
-- [ ] Your document is on your GitHub repository.
+- [x] Your document is on your GitHub repository.
 - [ ] Read the Kickoff Document again to ensure you followed all instructions.
 - [ ] User Stories that were not completed have been moved to the next Sprint’s backlog.
 - [ ] Quality Policies are up-to-date and accurate.
 - [ ] Individual Sprint Surveys have been submitted (one per team member).
-  - [ ] Team member 1
-  - [ ] Team member 2
+  - [ ] Astrid Vo
+  - [ ] Carlos Michelleto Jr
+  - [ ] Cheryl Frank
+  - [ ] Darsh Patel
+  - [ ] Joshua Larsen
+  - [ ] Max Roland
 - [ ] The original template has been copied for the next Sprint (except for the last Sprint).
 - [ ] New User Stories for the next Sprint are added and well-defined.
 
